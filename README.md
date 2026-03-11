@@ -77,7 +77,7 @@ The dataset was used to perform analysis and build interactive visualizations
 
 
 ## 📊 Dashboard 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/aamir-2702/Hospital-Emergency-Room_Analysis_Excel/blob/main/Hospital%20Emergency%20Dashboard.png)
 
 ---
 
