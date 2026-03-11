@@ -77,7 +77,7 @@ The dataset was used to perform analysis and build interactive visualizations
 
 
 ## 📊 Dashboard 
-![Hospital Emergency Dashboard](dashboard.png)
+![Dashboard Screenshot]()
 
 ---
 
